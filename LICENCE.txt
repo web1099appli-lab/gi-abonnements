@@ -1,0 +1,29 @@
+﻿LICENCE D'UTILISATION DE GI-ABONNEMENTS
+=======================================
+
+1. Objet
+GI-Abonnements est un logiciel gratuit de gestion des abonnements, développé par un particulier à titre non commercial. Son utilisation est libre et gratuite.
+
+2. Absence de garantie
+Le logiciel est fourni « en l'état », sans garantie d'aucune sorte, expresse ou implicite, notamment de bon fonctionnement, d'absence d'erreurs ou d'adéquation à un usage particulier.
+
+3. Données
+Les données saisies sont enregistrées uniquement sur l'ordinateur de l'utilisateur. Le logiciel ne se connecte à aucun serveur : aucune donnée n'est transmise à l'auteur ni à un tiers.
+Il appartient à l'utilisateur de sauvegarder régulièrement ses données à l'aide de la fonction « Exporter (JSON) ».
+
+4. Responsabilité
+Dans toute la mesure permise par la loi, l'auteur ne pourra être tenu responsable d'aucun dommage direct ou indirect résultant de l'utilisation ou de l'impossibilité d'utiliser le logiciel, notamment la perte de données.
+
+5. Redistribution
+Le logiciel peut être copié et partagé gratuitement, sans modification. Il ne peut pas être vendu.
+
+6. Acceptation et droit applicable
+L'utilisateur accepte la présente licence en cochant la case « J'accepte les conditions d'utilisation », lors de l'installation ou, pour la version portable, au premier lancement. Le logiciel ne peut pas être installé ni utilisé sans cette acceptation. La licence reste consultable à tout moment depuis le bouton « À propos » de l'application.
+La présente licence est régie par le droit français.
+
+
+COMPOSANTS TIERS
+----------------
+GI-Abonnements utilise les composants libres suivants, distribués selon leur propre licence :
+- Electron (licence MIT) et Chromium (licences diverses) : voir les fichiers LICENSE.electron.txt et LICENSES.chromium.html dans le dossier d'installation.
+- Polices Inter, Space Grotesk et JetBrains Mono (SIL Open Font License 1.1) : voir le dossier licences-polices dans le dossier d'installation.
